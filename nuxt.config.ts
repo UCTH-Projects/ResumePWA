@@ -17,12 +17,14 @@ export default defineNuxtConfig({
    * TODO: Migrate apple-touch-icon config to manifest.json
    */
 
-  mode: 'static',
-  router: {
-     base: '/ResumePWA/'
-  },
+
 
   app: {
+    target: 'static',
+    router: {
+      base: '/ResumePWA/'
+    },
+    
     head: {
       title: siteTitle, // App window nav title
       
