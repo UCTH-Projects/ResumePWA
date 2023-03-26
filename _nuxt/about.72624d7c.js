@@ -1,0 +1,1 @@
+import{N as e,o as t,J as s,K as o}from"./entry.48f854b4.js";const c={},a={class:"max-w-7xl mx-auto p-5"},n=o("h1",{class:"flex justify-center text-7xl pt-16"}," About/ page ",-1),_=[n];function r(l,x){return t(),s("section",a,_)}const i=e(c,[["render",r]]);export{i as default};

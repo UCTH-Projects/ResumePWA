@@ -1,0 +1,1 @@
+const n={title:e=>{const{normalize:t}=e;return t(["Nuxt 3 App"])},subtitle:e=>{const{normalize:t}=e;return t(["Template"])},hello:e=>{const{normalize:t}=e;return t(["Hello"])},social:{twitter:e=>{const{normalize:t}=e;return t(["Twitter in english"])}}};export{n as default};
