@@ -16,6 +16,12 @@ export default defineNuxtConfig({
    * TODO: Add tags for social media sharing
    * TODO: Migrate apple-touch-icon config to manifest.json
    */
+
+  mode: 'static',
+  router: {
+     base: '/ResumePWA/'
+  },
+
   app: {
     head: {
       title: siteTitle, // App window nav title
